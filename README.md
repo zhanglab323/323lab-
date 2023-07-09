@@ -1,5 +1,7 @@
 # zhanglab  合成仪注意事项
 
+仅供学习参考，谢谢配合
+
 <div align=center>
 <img src="https://github.com/zhanglab323/zhanglab-meeting/assets/65983489/e64befb8-3c98-4889-9cb8-a463aac824cf" width="300">
 </div>
