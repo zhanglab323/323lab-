@@ -23,7 +23,7 @@
 * 12通道建议关闭侧面的电脑；192开机太慢所以不关机，调到睡眠状态即可。
 
 <div align=center>
-<img src="https://github.com/zhanglab323/323lab-HJ12-QK192/assets/65983489/dec7ba0c-5d58-470d-af04-e72f14f1450b" width="800">
+<img src="https://github.com/zhanglab323/323lab-HJ12-QK192/assets/65983489/dec7ba0c-5d58-470d-af04-e72f14f1450b" width="500">
 </div>
 
 ### 调节瓶压与负压
