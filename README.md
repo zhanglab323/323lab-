@@ -9,6 +9,7 @@
 
 ## 基本概念
 ### DNA固相合成原理
+与自然界DNA合成方向不同，DNA固相合成方向为3'-5'
 
 <div align=center>
 <img src="https://github.com/zhanglab323/323lab-HJ12-QK192/assets/65983489/419f56cf-7dc2-48b1-93c1-0e91b3b01c19" width="1500">
