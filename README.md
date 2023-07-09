@@ -15,8 +15,6 @@
 
 <a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/QK192&HJ12合成仪/合成仪溶单体.docx">合成仪溶单体.docx</a>
 
-<a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/QK192&HJ12合成仪/合成仪溶单体.docx">合成仪溶单体.docx</a>
-
 <a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/QK192&HJ12合成仪/魏同萱2022年9月合成仪培训_供参考.pptx">魏同萱2022年9月合成仪培训_供参考.pptx</a>
 
 ## 基本概念
