@@ -19,6 +19,7 @@
 * 普通单体：A、T、C、G等
 * 特殊单体：BHQ、Cy3、EdU、Cy5、Biotin氨基修饰单体
 * 大瓶试剂，共6瓶（作用见上面的原理图）：DEB、ACT、CAPA、CAPB、OXI、WASH
+* 高纯度氮气气瓶
 
 ## 开关仪器与调节气压
 
