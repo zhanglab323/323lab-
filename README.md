@@ -4,6 +4,7 @@
 <img src="https://github.com/zhanglab323/zhanglab-meeting/assets/65983489/e64befb8-3c98-4889-9cb8-a463aac824cf" width="300">
 </div>
 
+* 合成仪的最佳条件：温度不超过26℃，湿度不超过40%。
 ## 开关仪器与调节气压
 
 ### 开机时
