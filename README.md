@@ -6,7 +6,7 @@
 
 ## 溶单体
 
-| Base      | protection | 1g体积   |5g体积  |浓度(mM) |Company |
+| Base      | protection | 1g体积/μL   |5g体积/μL  |浓度(mM) |Company |
 | :----:    |    :----:  |   :----: | :----: | :----: | :----: |
 | A         |  Bz        |     25   |  125   | 46.62  |  HJ/QK | 
 | C         |  Bz        |     25   |  125   | 47.97  |  HJ    | 
