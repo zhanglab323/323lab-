@@ -10,6 +10,15 @@
 ## 基本概念
 ### DNA固相合成原理
 
+<div align=center>
+<img src="https://github.com/zhanglab323/323lab-HJ12-QK192/assets/65983489/419f56cf-7dc2-48b1-93c1-0e91b3b01c19" width="1500">
+</div>
+
+过程中需要用的试剂有：
+* 普通单体：A、T、C、G等
+* 特殊单体：BHQ、Cy3、EdU、Cy5、Biotin氨基修饰单体
+* 大瓶试剂，共6瓶（作用见上面的原理图）：DEB、ACT、CAPA、CAPB、OXI、WASH
+
 ## 开关仪器与调节气压
 
 ### 开机时
