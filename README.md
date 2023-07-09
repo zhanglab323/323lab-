@@ -14,7 +14,7 @@
 * 再缓慢拧紧减压阀，释放气体进入仪器；观察到仪器上的示数和气瓶表上的压力时停止，拧紧减压阀时速度应尽量缓慢，防止过多气体进入机器内导致压力过大。**升压容易降压难，同时过大的压力还有可能损害管路。**
 
 <div align=center>
-<img src="https://github.com/zhanglab323/323lab-HJ12-QK192/assets/65983489/21cfcbb5-4af0-4c17-9689-1c8a63d81a92" width="1200">
+<img src="https://github.com/zhanglab323/323lab-HJ12-QK192/assets/65983489/21cfcbb5-4af0-4c17-9689-1c8a63d81a92" width="800">
 </div>
 
 ### 关机时
@@ -23,7 +23,7 @@
 * 12通道建议关闭侧面的电脑；192开机太慢所以不关机，调到睡眠状态即可。
 
 <div align=center>
-<img src="https://github.com/zhanglab323/323lab-HJ12-QK192/assets/65983489/dec7ba0c-5d58-470d-af04-e72f14f1450b" width="1200">
+<img src="https://github.com/zhanglab323/323lab-HJ12-QK192/assets/65983489/dec7ba0c-5d58-470d-af04-e72f14f1450b" width="800">
 </div>
 
 ### 调节瓶压与负压
@@ -31,7 +31,7 @@
 * 单体/大瓶试剂的压力过小：逆时针拧瓶压调节阀，速度应该控制缓慢，直到试剂压力合适。
 
 <div align=center>
-<img src="https://github.com/zhanglab323/323lab-HJ12-QK192/assets/65983489/5d6a0fb7-8358-4c0b-9d14-33e29c62add8" width="400">
+<img src="https://github.com/zhanglab323/323lab-HJ12-QK192/assets/65983489/5d6a0fb7-8358-4c0b-9d14-33e29c62add8" width="300">
 </div>
 
 * 单体/大瓶试剂的压力过大：拧松减压阀/顺时针拧瓶压调节阀。完成后放掉单体/大瓶试剂中的气。等待一段时间，直到仪器内压力平衡，直到试剂压力合适。
