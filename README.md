@@ -7,6 +7,18 @@
 * 合成仪的最佳条件：温度不超过26℃，湿度不超过40%。
 * 在四楼工作时注意垃圾分类，生物垃圾归黄，普通垃圾直接扔外面垃圾桶。
 
+## 本文参考资料
+
+<a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/QK192&HJ12合成仪/DNA合成原理.pdf">DNA合成原理.pdf</a>
+
+<a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/QK192&HJ12合成仪/QK192&HJ12合成仪注意事项.docx">QK192&HJ12合成仪注意事项.docx</a>
+
+<a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/QK192&HJ12合成仪/合成仪溶单体.docx">合成仪溶单体.docx</a>
+
+<a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/QK192&HJ12合成仪/合成仪溶单体.docx">合成仪溶单体.docx</a>
+
+<a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/QK192&HJ12合成仪/魏同萱2022年9月合成仪培训_供参考.pptx">魏同萱2022年9月合成仪培训_供参考.pptx</a>
+
 ## 基本概念
 ### DNA固相合成原理
 与自然界DNA合成方向不同，DNA固相合成方向为3'-5'
