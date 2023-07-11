@@ -1,9 +1,5 @@
 # zhanglab  合成仪注意事项
 
-<a href="https://atdbio.com/nucleic-acids-book/Solid-phase-oligonucleotide-synthesis">原理学习网站</a>
-
-<a href="https://www.glenresearch.com/reports/gr21-28">修饰单体的氨解条件</a>
-
 仅供学习参考，谢谢配合
 
 <div align=center>
@@ -14,6 +10,10 @@
 * 在四楼工作时注意垃圾分类，生物垃圾归黄，普通垃圾直接扔外面垃圾桶。
 
 ## 本文参考资料
+
+<a href="https://atdbio.com/nucleic-acids-book/Solid-phase-oligonucleotide-synthesis">非常重要的原理学习网站</a>
+
+<a href="https://www.glenresearch.com/reports/gr21-28">修饰单体的氨解条件</a>
 
 <a href="https://zlabmeeting.obs.cn-north-4.myhuaweicloud.com/QK192&HJ12合成仪/DNA合成原理.pdf">DNA合成原理.pdf</a>
 
